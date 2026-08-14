@@ -27,7 +27,6 @@
   "name"       : "emperorsEditx",
   "role"       : "Senior Developer & Project Leader",
   "company"    : "Designo Graphy (Canada) 🍁",
-  "venture"    : "CEO & Founder @ Core Code Industries",
   "experience" : "4+ Years",
   "focus"      : ["SaaS", "CRM", "ERP", "Custom Web Solutions"],
   "clients"    : ["Startups", "Enterprises", "Media Personalities",
