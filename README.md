@@ -107,8 +107,6 @@
 ## 🎖️ Experience Timeline
 
 ```
-2024 – Present  ▸  CEO & Founder   @  Core Code Industries
-                   Leading a dev powerhouse — SaaS, CRM, ERP, Custom Projects
 
 2022 – Present  ▸  Senior Developer & Project Leader  @  Designo Graphy 🍁
                    Spearheading full-stack architecture for Canadian clientele
