@@ -1,145 +1,115 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║          EMPERORSEDITX  ·  FULL STACK ARCHITECT              ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · emperorseditx</sub></p>
+<h1>Muhammad Awais Mughal</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Hi, I'm a full stack developer. I'm here to improve my skills and server the newcomers my best.</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Remote · Building at Designo Graphy</sub></p>
+<p><a href="https://github.com/emperorseditx">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/132879684?u=7651e02689d7c4ab37e60e51de6912efa68533d4&amp;v=4" width="180" alt="Muhammad Awais Mughal GitHub avatar" />
+</td>
+</tr>
+</table>
 </div>
 
-<div align="center">
+<h2>What teams can evaluate quickly</h2>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=D4A017&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+%26+LAMP+Developer;Senior+Developer+%7C+Project+Leader;CEO+%26+Founder+%40+Core+Code+Industries;Building+Scalable+SaaS+%7C+CRM+%7C+ERP+Systems;4%2B+Years+Crafting+Digital+Excellence)
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · TypeScript · JavaScript · CSS</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>13 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>96 contributions · 26 active days</p></td>
+</tr>
+</table>
 
-</div>
+<p><sub>Hi, I'm a full stack developer. I'm here to improve my skills and server the newcomers my best.</sub></p>
 
----
+<h2>Proof at a glance</h2>
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix Code Animation" />
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>13</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>96</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>1</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-## `whoami`
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=emperorseditx&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F132879684%3Fu%3D7651e02689d7c4ab37e60e51de6912efa68533d4%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=emperorseditx&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F132879684%3Fu%3D7651e02689d7c4ab37e60e51de6912efa68533d4%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Muhammad Awais Mughal GitHub proof metrics" />
+</picture>
+</p>
 
-```json
-{
-  "name"       : "emperorsEditx",
-  "role"       : "Senior Developer & Project Leader",
-  "company"    : "Designo Graphy (Canada) 🍁",
-  "experience" : "4+ Years",
-  "focus"      : ["SaaS", "CRM", "ERP", "Custom Web Solutions"],
-  "clients"    : ["Startups", "Enterprises", "Media Personalities",
-                  "Big Companies"],
-  "status"     : "Building the Future, One Commit at a Time 🚀"
-}
-```
+<h2>Selected work</h2>
 
-<br clear="right"/>
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=emperorseditx&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F132879684%3Fu%3D7651e02689d7c4ab37e60e51de6912efa68533d4%26v%3D4&repos=emperorseditx%2Fadmin-flat-icons%2Cemperorseditx%2Fapi-flat-icons%2Cemperorseditx%2FERP%2Cemperorseditx%2Fpersonal&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=emperorseditx&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F132879684%3Fu%3D7651e02689d7c4ab37e60e51de6912efa68533d4%26v%3D4&repos=emperorseditx%2Fadmin-flat-icons%2Cemperorseditx%2Fapi-flat-icons%2Cemperorseditx%2FERP%2Cemperorseditx%2Fpersonal&v=recruiter-projects-1&mode=dark" width="100%" alt="Muhammad Awais Mughal selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/emperorsEditx/admin-flat-icons">admin-flat-icons</a></h3>
+<p>A selected public project.</p>
+<p><sub>TypeScript · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/emperorsEditx/admin-flat-icons">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
----
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/emperorsEditx/api-flat-icons">api-flat-icons</a></h3><p>A selected public project.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/emperorsEditx/ERP">ERP</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/emperorsEditx/personal">personal</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
-## ⚡ Tech Arsenal
+<h2>Technical toolkit</h2>
 
-<div align="center">
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=emperorseditx&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F132879684%3Fu%3D7651e02689d7c4ab37e60e51de6912efa68533d4%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=emperorseditx&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F132879684%3Fu%3D7651e02689d7c4ab37e60e51de6912efa68533d4%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Muhammad Awais Mughal technology stack" />
+</picture>
+</p>
 
-### 🟨 MERN Stack
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>57% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>25% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>10% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>5% of public code</sub></td>
+<td width="20%" align="center"><strong>SCSS</strong><br /><sub>3% of public code</sub></td>
+</tr>
+</table>
 
-### 🐘 LAMP Stack
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<h2>Consistency signal</h2>
 
-### 🎨 Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=emperorseditx&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F132879684%3Fu%3D7651e02689d7c4ab37e60e51de6912efa68533d4%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=emperorseditx&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F132879684%3Fu%3D7651e02689d7c4ab37e60e51de6912efa68533d4%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Muhammad Awais Mughal contribution activity" />
+</picture>
+</p>
 
-### ☁️ DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+<hr />
 
-</div>
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/emperorseditx">GitHub</a></td>
+</tr>
+</table>
 
----
-
-## 🏆 What I Build
-
-<div align="center">
-
-| 🏗️ Product Type | ✅ Delivered | 🎯 Scale |
-|:---:|:---:|:---:|
-| **SaaS Platforms** | Multi-tenant architectures | Enterprise-grade |
-| **CRM Systems** | End-to-end custom solutions | Mid to Large Business |
-| **ERP Solutions** | Integrated business platforms | Enterprise |
-| **Custom Websites** | Media & Corporate identities | Startups to Corporates |
-| **API Ecosystems** | RESTful & GraphQL services | High-throughput |
-
-</div>
-
----
-
-## 📊 GitHub Metrics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=emperorsEditx&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=D4A017&icon_color=D4A017&text_color=FFFFFF&border_radius=10" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emperorsEditx&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=D4A017&text_color=FFFFFF&border_radius=10" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=emperorsEditx&theme=github-dark-blue&hide_border=true&background=0D1117&ring=D4A017&fire=D4A017&currStreakLabel=D4A017&border_radius=10)
-
-</div>
-
----
-
-## 🎖️ Experience Timeline
-
-```
-
-2022 – Present  ▸  Senior Developer & Project Leader  @  Designo Graphy 🍁
-                   Spearheading full-stack architecture for Canadian clientele
-
-2020 – 2022     ▸  Full Stack Developer
-                   MERN & LAMP projects — startups, media, enterprise
-```
-
----
-
-## 🤝 Let's Connect & Build
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emperorsEditx)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emperorsEditx)
-[![Email](https://img.shields.io/badge/Email-Contact-D4A017?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awaismughal14301@email.com)
-
-</div>
-
----
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  "Code is not just syntax — it's architecture, strategy,    │
-│   and craft. I build systems that scale, products that       │
-│   matter, and businesses that last."                         │
-│                                          — emperorsEditx     │
-└─────────────────────────────────────────────────────────────┘
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=emperorsEditx&color=D4A017&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
+<p align="center"><sub>Muhammad Awais Mughal · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
