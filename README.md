@@ -2,7 +2,7 @@
 
 <table width="100%">
 <tr>
-<td width="64%" valign="middle">
+<td width="100%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · emperorseditx</sub></p>
 <h1>Muhammad Awais Mughal</h1>
 <h2>Frontend or full-stack engineer</h2>
@@ -10,9 +10,6 @@
 <p><strong>● Building and sharing work in public</strong></p>
 <p><sub>Based in Remote · Building at Designo Graphy</sub></p>
 <p><a href="https://github.com/emperorseditx">GitHub</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/132879684?u=7651e02689d7c4ab37e60e51de6912efa68533d4&amp;v=4" width="180" alt="Muhammad Awais Mughal GitHub avatar" />
 </td>
 </tr>
 </table>
