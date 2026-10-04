@@ -108,6 +108,6 @@
 <table width="100%">
 <tr>
 <td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/emperorseditx">GitHub</a></td>
+<td width="38%" valign="middle" align="right"><a href="https://www.awaiss.tech/">Portfolio</a></td>
 </tr>
 </table>
