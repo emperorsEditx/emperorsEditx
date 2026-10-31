@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:D4AF37&height=210&section=header&text=Muhammad%20Awais%20Mughal&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Senior%20Full-Stack%20Engineer%20%C2%B7%20Co-Founder%20%40%20Core%20Code%20Industries&descSize=17&descAlignY=60" width="100%" alt="Muhammad Awais Mughal — Senior Full-Stack Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:D4AF37&height=210&section=header&text=Muhammad%20Awais%20Mughal&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Senior%20Full-Stack%20Engineer%20%C2%B7%20" width="100%" alt="Muhammad Awais Mughal — Senior Full-Stack Engineer" />
 
 <p>
   <a href="https://www.awaiss.tech/"><img src="https://img.shields.io/badge/Portfolio-awaiss.tech-D4AF37?style=for-the-badge&labelColor=0D1117" alt="Portfolio" /></a>
